@@ -1,0 +1,23 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc interfaces.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyPanovA/typescript-test.git"
+  },
+  "author": "panovAndrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyPanovA/typescript-test/issues"
+  },
+  "homepage": "https://github.com/AndreyPanovA/typescript-test#readme",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
