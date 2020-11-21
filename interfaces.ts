@@ -54,3 +54,15 @@ const css: Styles = {
 }
 // ===============
 // Enums
+
+enum MemberShip {
+    Simple,
+    Standart,
+    Premium
+}
+const membership =MemberShip.Standart
+const membershipReverse = MemberShip[2]
+console.log(membership, membershipReverse)
+
+// =========Promise
+
